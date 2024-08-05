@@ -1,0 +1,75 @@
+body {
+  background-color: cornsilk;
+}
+.dih h1 {
+  font-size: 60px;
+}
+.dih p {
+  font: size 24px;
+  left: 1.4;
+}
+.dih {
+  margin: 0 auto;
+  width: 500px;
+  background-color: rgb(237, 170, 180);
+}
+/* giới hạn độ rộng tối đa max-width  */
+.dih img {
+  max-width: 530px;
+}
+.dih {
+  padding: 40px;
+  color: aqua;
+}
+#aduc:hover {
+  color: blueviolet;
+  font-size: 24px;
+}
+
+.aduc1:hover {
+  color: blue;
+}
+a:link {
+  color: blanchedalmond;
+}
+a:visited {
+  color: darkblue;
+}
+.div_dec:empty {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(0, 8, 255);
+}
+#aduc:hover {
+  color: blueviolet;
+  font-size: 24px;
+}
+
+.aduc1:hover {
+  color: blue;
+}
+a:link {
+  color: rgb(205, 255, 221);
+}
+a:visited {
+  color: darkblue;
+}
+.div_dec:empty {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(0, 8, 255);
+}
+#duc12 {
+  background-color: bisque;
+  width: 500px;
+}
+#code {
+  margin: 0 auto;
+  width: 500px;
+
+  padding-left: 20px;
+}
+#duc12:nth-child(1):hover {
+  color: brown;
+  font-size: 25px;
+}
